@@ -1,0 +1,96 @@
+
+Arabic Translations:
+مرحبا
+
+Arabic Examples:
+hallo Sam wie geht's?
+مرحباً يا (سام)، كيف حالك؟
+
+
+English Translations:
+hello
+
+English Examples:
+George Cartelli sagte seit 1977 nur hallo.
+George Cartelli has said nothing but hello since 1977.
+
+
+Spanish Translations:
+hola
+
+Spanish Examples:
+Sag hallo zu Spanx und acht unterschiedlichen Haarspülungen.
+Di hola al spanx... y a ocho tipos diferentes de acondicionador.
+
+
+French Translations:
+allô
+
+French Examples:
+Ich sagte hallo Vater.
+J'ai dit allô papa.
+
+
+Hebrew Translations:
+שלום
+
+Hebrew Examples:
+Ja hallo Mrs. Henderson.
+כן שלום גב 'הנדרסון.
+
+
+Japanese Translations:
+こんにちは
+
+Japanese Examples:
+Hallo ich heiße Cynthia Rose.
+うん、こんにちは、私の名前　シンシアはローズですか？
+
+
+Dutch Translations:
+dag
+
+Dutch Examples:
+Zoe sag deinem Vater hallo.
+Zoe zeg eens dag tegen je vader.
+
+
+Polish Translations:
+cześć
+
+Polish Examples:
+Hatte es vorhin eilig sagte nicht hallo.
+Śpieszyłem się nie powiedziałem cześć.
+
+
+Portuguese Translations:
+alô
+
+Portuguese Examples:
+Ich sah dich und dachte ich sage hallo.
+Eu vi você aqui e pensei em vir dizer alô.
+
+
+Romanian Translations:
+salut
+
+Romanian Examples:
+He hallo hier ist Dr. Jonathan Dennison.
+Hei salut sunt doctorul Jonathan Dennison.
+
+
+Russian Translations:
+привет
+
+Russian Examples:
+Ich wollte sowieso Melody hallo sagen.
+Я всё равно собиралась сказать привет Мелоди.
+
+
+Turkish Translations:
+selam
+
+Turkish Examples:
+Oh hallo ich bin Frank Libbys Freund.
+Selam ben Frank. Libby'nin erkek arkadaşıyım.
+

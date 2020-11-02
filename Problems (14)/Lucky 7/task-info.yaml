@@ -1,0 +1,37 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6549
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 16. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    7
+    8
+    11
+    -49
+    0
+    3564
+    14
+    33
+    Correct output:
+    2401
+    0
+    196
+
+    Your code output:
+
+
+    Error:
+      File "jailed_code", line 3
+        tns = [print(tn ** 2) for _ in range(n) if not (tn := int(input())) % 7]
+                                                           ^
+    SyntaxError: invalid syntax
+  time: Tue, 06 Oct 2020 15:02:56 UTC
+record: -1

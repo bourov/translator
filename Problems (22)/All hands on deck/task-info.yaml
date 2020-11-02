@@ -1,0 +1,33 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6553
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 16. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Ace
+    4
+    9
+    Jack
+    10
+    7
+    Correct output:
+    9.166666666666666
+
+    Your code output:
+
+
+    Error:
+      File "jailed_code", line 3
+        values = [int(face_values.get(i := input(), i)) for _ in range(6)]
+                                        ^
+    SyntaxError: invalid syntax
+  time: Fri, 09 Oct 2020 14:50:48 UTC
+record: -1
